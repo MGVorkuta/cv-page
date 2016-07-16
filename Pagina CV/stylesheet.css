@@ -1,0 +1,116 @@
+/*Stylesheet para pagina CV, PONETE LAS PILAS GIL*/
+/*
+################
+HEADER & LINKS
+################
+*/
+	header {
+	display: inline-block;
+	float: right;
+	clear: left;
+	padding-right: 50px;
+}
+	#navbar{
+	display: inline;
+	text-decoration: none;
+	font-size: 1.25REM;
+	font-family: sans-serif;
+}
+
+nav {
+	align: left;
+	display: inline-block;
+}
+/* IMAGENES */
+div img{
+	max-width:60%;
+	max-height:60%;
+	border: 8px solid white;
+	border-radius: 30px;
+	display: inline-block;
+	margin-left: 40px;
+}
+/* 
+########################################################
+COLOR,FUENTES Y ALINEACIONES DE TEXTO
+########################################################
+*/
+#titulo{
+	font-family: 'Raleway', sans-serif;
+	font-size: 2.50REM;
+	color: #eeeeee;
+}
+
+h1{
+
+text-align: left;
+font-size: 3.5REM;
+font-family: 'Raleway', sans-serif;
+padding-left: 0px;
+padding-bottom: 0px;
+color: #f5faff;
+
+}
+
+h2{
+margin-left: 150px;
+text-align: left;
+font-size: 1.75REM;
+font-family: verdana;
+color: #f3f7fc;
+}
+
+ul li{
+	font-size: 1REM;
+	font-family: sans-serif;
+	color:#eff2f2;
+	text-align: left;
+	text-decoration: none;
+	list-style-type:none;
+	margin-left: 60px;
+
+
+}
+ul{
+	font-size: 1.25REM;
+	font-family: Times;
+	color: #FFFFFF;
+}
+/*
+###########################################################
+DIVISORES, BAKCGROUNDS & STUFF FLOATY ALIGNY BLOCKY INLINY
+###########################################################
+*/
+
+div div{
+	margin: 0 auto;
+}
+
+
+#head{
+	height: 350px;
+	max-width: 100%;
+	margin: center;
+	background: #028dbe;
+	border-radius: 5px;
+}
+
+#first{
+  height: 100px;
+  width: 100%;
+  margin: left;
+}
+
+body{
+	background: #032731;
+}
+
+
+/* TABLA PORFTOLIO*/
+table{
+	border: 5px solid black;
+	border-radius: 2px;
+	
+}
+
+/*SLIDER */
